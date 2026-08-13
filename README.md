@@ -1,4 +1,7 @@
 # TurboGator
 
 Implementation and optimization of the [GATr paper](https://arxiv.org/pdf/2305.18415).
-Report Paper - 66.pdf
+
+Report Paper - 66_report.pdf
+
+Presentation Slides - 66.pdf
