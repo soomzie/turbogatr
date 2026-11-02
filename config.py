@@ -19,8 +19,8 @@ SHOW_CACHE_LINES = True
 BATCH_SIZE = 8
 VECTOR_DIM = 16
 
-URL = "https://aos.licu.dev"
-AUTH = "turbogator:TurboGator2026"
+URL = "https://aos.licu.dev"            # Server deactivated
+AUTH = "turbogator:TurboGator2026"      # Credentials not valid anymore
 
 
 SERVERS = {
